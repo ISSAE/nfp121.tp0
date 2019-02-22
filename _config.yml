@@ -1,0 +1,19 @@
+remote_theme: ISSAE/architect
+
+name: Programmation Avancée TP0
+
+author: Pascal Fares
+
+author_email: pascal.fares@isae.edu.lb
+
+title: TP introductif
+description: Programmation Avancée et Patron de conception en Java
+
+google_analytics: UA-29708002-2
+
+repository: ISSAE/nfp121.tp0
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
