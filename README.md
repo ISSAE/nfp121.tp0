@@ -13,7 +13,7 @@ Mode          | (hybride)
 
 À la fin de cette leçon (session), vous serez en mesure de:
 
-- Récuperer le travail habdomadaire à réaliser depuis la classroom de l'ISSAE et le lien vers ce dépot
+- Récupérer le travail hebdomadaire à réaliser depuis la classroom de l'ISSAE et le lien vers ce dépot
 - Pratiquez le processus Git, GitHub à partir de la ligne de commande
 - Créer une organisation github
 - Faire un fork d'un dépot github dans une de vos organisation
@@ -21,15 +21,15 @@ Mode          | (hybride)
 - Définir les configurations Git
 - Collaborer en utilisant des problèmes (Issues)
 - Renvoyer le travail dans un de vos fork (push)
-- soumettre les traveaux a la JNEWS
-- Faire éventiellement pull des corrections
+- _soumettre les travaux a la JNEWS [pas pour ce TP mais pour les suivant]_
+- Faire éventuellement pull des corrections
 
 ## Installer (pré-requis)
 
-un compte github avec vos enmail @isae.edu.lb
-BlueJ
-git for windows (contenant ssh)
-Vs code (editeur de texte)
+* un compte github avec vos email @isae.edu.lb
+* BlueJ
+* git for windows (contenant ssh)
+* Vs code (éditeur de texte)
 
 ## Supports
 
@@ -39,15 +39,15 @@ Vs code (editeur de texte)
 
 Temps        | Sujet
 ---         | ---
-(15mn)| Verifié/installé que tous les pré-requis OK
-(5 mn)| rejoindre la classroom
-(5 mn)| faire un fork dans votre propre organisation
-(5 mn)|cloner en local votre fork
-(10 mn)|Faire le travail demandé par le TP
-(0 mn)| Pour ce TP introductif pas de sommision a JNEWS
-(5 mn)| Faire push dans votre fork
-(5mn)| avertir l'enseignant dans la classroom de la fin du travail
-(5 mn) | optionellement faire un pull request
+(15mn)| [Verifier/installer que tous les pré-requis](travail#prerequis)
+(5 mn)| [rejoindre la classroom](http://classroom.isae.edu.lb)
+(5 mn)| [Faire un fork dans votre propre organisation](travail#fork)
+(5 mn)| [Cloner en local votre fork](travail#clone)
+(10 mn)|[Faire le travail demandé par le TP](travail#quoi)
+(0 mn)| [Pour ce TP introductif pas de soumission a JNEWS](travail#jnews)
+(5 mn)| [Faire push dans votre fork](travail#push)
+(5mn)| [Avertir l'enseignant dans la classroom de la fin du travail](travail#avertir)
+(5 mn) | [optionnellement faire un pull request](travail#pullrequest)
 
 
 # Liens complémentaire

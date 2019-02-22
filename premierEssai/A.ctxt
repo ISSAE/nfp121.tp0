@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=A
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ A\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=A()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ A\r\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\r\n\ Un\ exemple\ de\ m\u00E9thode\ -\ remplacez\ ce\ commentaire\ par\ le\ v\u00F4tre\r\n\r\n\ @param\ \ y\ \ \ le\ param\u00E8tre\ de\ la\ m\u00E9thode\r\n\ @return\ \ \ \ \ la\ somme\ de\ x\ et\ de\ y\r\n
+numComments=3
