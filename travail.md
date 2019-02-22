@@ -117,12 +117,25 @@ git clone <url de votre dépot que vous avez forké plus haut>
 voir cette petite vidéo explicative
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HSvQAsBdKnc" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Créer un projet avec blueJ dans le répertoire nfp121.tp0 que vous avez récupérer après le clone
 
+1. Lancer BlueJ, 
+2. créer des classes, 
+2. faire une nouvelle versions, git add git commit
+
+Voir les instructions dans cette vidéo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzpfP1mTm6U" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### <a id="jnews">[Pour ce TP introductif pas de soumission a JNEWS](travail#jnews)
 
-### <a id="push">[Faire push dans votre fork](travail#push)
+### <a id="push">[Finie ne faison push dans votre fork](travail#push)
+
+git push .... 
+
+#### Processus git ...
+![git1](img/gitSequences.png)
+![git2](img/etatDepot.png)
 
 ### <a id="avertir">[Avertir l'enseignant dans la classroom de la fin du travail](travail#avertir)
 
