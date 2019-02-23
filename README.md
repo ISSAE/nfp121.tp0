@@ -1,4 +1,4 @@
-# nfp121.tp0
+# Le TP d'introduction
 Tp de prise en main pour tester la procedure de soummision des traveaux d'auditeurs
 
 Élément                    | Exigence
