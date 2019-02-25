@@ -33,9 +33,9 @@ Mode          | (hybride)
 
 ## Supports
 
-[ici](/nfp121.tp0) et https://issae.github.io/NFP121/
+[ici](/nfp121.tp0) et [le travail demandé](travail)
 
-## le plan
+## le plan et étapes
 
 Temps        | Sujet
 ---         | ---

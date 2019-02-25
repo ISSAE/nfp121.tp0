@@ -24,11 +24,11 @@ Vous avez été invité par votre enseignants, si ce n'est pas le cas remplir [J
 
 Créer une organisation dans github avec votre compte github nommer la **nfp121-VOTRECENTRE-VOTREIDCNAM** exemple nfp121-tri-1000t
 
-bey pour Beyrouth
-tri pour tripoli
-nib pour Nahr Ibrahim
-bik pour Bikfaya
-bal pour Baalbek
+* **bey** pour Beyrouth
+* **tri** pour tripoli
+* **nib** pour Nahr Ibrahim
+* **bik** pour Bikfaya
+* **bal** pour Baalbek
 
 voici une vidéo explicative
 
