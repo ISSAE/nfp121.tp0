@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Description\ of\ class\ Student\ here.\r\n\r\n\ @author\ Ali.z\r\n\ @version\ 24/11/2023\r\n
+comment1.params=name\ email\ age
+comment1.target=Student(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString()\r\n\ @return\ \ \ \ string\ a\ description\ about\ student\r\n
+numComments=3
